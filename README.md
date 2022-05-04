@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CRMK01
+- 👋 Hi, I’m Manoj Kumar C R
 - 👀 I’m interested in Data Science,Natural Language Processing, Machine Learning and Artificial Intelligence.
 
 <!---
